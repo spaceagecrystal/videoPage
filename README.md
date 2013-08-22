@@ -10,7 +10,7 @@ Often I need a very quick presentation of a video, or series of videos for clien
 
 * Aside from the video positioning, there is no styling, so you can skin to requirements.
 
-Its based on [HTML5 Boilerplate](http://http://html5boilerplate.com/) and [MediaElement.js](http://http://mediaelementjs.com/)
+* Its based on [HTML5 Boilerplate](http://http://html5boilerplate.com/) and [MediaElement.js](http://http://mediaelementjs.com/)
 
 
 
