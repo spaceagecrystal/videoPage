@@ -2,11 +2,17 @@
 
 ## What it is
 
-Often I need a very quick presentation of a video devoid of an existing CMS or anything other than a web server and a directory. There are a ton of services out there that can do this, but this is for very rapidly needed quick turnarounds. 
+Often I need a very quick presentation of a video, or series of videos for client or group review. There are many services out there that can do this, but this is for quick turnarounds when you just have a LAMP stack.
+
+* The videos are automatically centered by jQuery, so the only place you need to enter the video dimensions are in the video element itself.
+
+* The index page uses php to produce a linked list of html files in the directory.
+
+* Aside from the video positioning, there is no styling, so you can skin to requirements.
 
 Its based on [HTML5 Boilerplate](http://http://html5boilerplate.com/) and [MediaElement.js](http://http://mediaelementjs.com/)
 
-Use it as is to display a single video, or use it as a starting point for something more.
+
 
 
 
